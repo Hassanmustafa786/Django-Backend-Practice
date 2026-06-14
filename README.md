@@ -1,1 +1,1 @@
-# DJANGO
+# Django Backend Practice
